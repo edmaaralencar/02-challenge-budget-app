@@ -1,0 +1,47 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "title": "Pizza",
+      "type": "withdraw",
+      "amount": 30,
+      "category": "Alimentação"
+    },
+    {
+      "id": 2,
+      "title": "Curso",
+      "type": "withdraw",
+      "amount": 300,
+      "category": "Estudos"
+    },
+    {
+      "id": 3,
+      "title": "Freelancer",
+      "type": "deposit",
+      "amount": 1000,
+      "category": "Salário"
+    },
+    {
+      "id": 4,
+      "title": "Festa",
+      "type": "withdraw",
+      "amount": 150,
+      "category": "Lazer"
+    },
+    {
+      "id": 5,
+      "title": "Salário do Trabalho",
+      "type": "deposit",
+      "amount": 3000,
+      "category": "Salário"
+    }
+  ],
+  "categories": [
+    { "id": 1, "name": "Compras" },
+    { "id": 2, "name": "Alimentação" },
+    { "id": 3, "name": "Salário" },
+    { "id": 4, "name": "Carro" },
+    { "id": 5, "name": "Lazer" },
+    { "id": 6, "name": "Estudos" }
+  ]
+}
